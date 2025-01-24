@@ -1,0 +1,19 @@
+{
+    "alphabet_type": "latin",
+    "default_language_set": true,
+    "fallback_default_language": "",
+    "fallback_languages": {
+        "en_US": {
+            "alphabet_type": "latin",
+            "file": "en_US.json",
+            "name": "English (US)"
+        },
+        "es_MX": {
+            "alphabet_type": "latin",
+            "file": "es_MX.json",
+            "name": "Español Mexicano"
+        }
+    },
+    "selected_language": "en_US",
+    "version": 49
+}
